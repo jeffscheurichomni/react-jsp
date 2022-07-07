@@ -14,7 +14,7 @@ import org.springframework.web.servlet.view.JstlView;
  * Created by lukasz on 27.08.2017.
  * With IntelliJ IDEA 15
  */
-@EnableWebMvc
+// @EnableWebMvc
 @Configuration
 public class WebConfig extends WebMvcConfigurerAdapter {
 
